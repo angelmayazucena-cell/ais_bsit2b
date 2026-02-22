@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/cli": "^7.6.0",
+    "@nestjs/serve-static": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/serve-static": "^2.2.0"
+  }
+}
